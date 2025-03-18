@@ -1,0 +1,26 @@
+[
+    {
+        "altezza": "",
+        "max": "24",
+        "min": "17",
+        "name": "a",
+        "stanza": "",
+        "type": "Temperatura"
+    },
+    {
+        "altezza": "",
+        "max": "",
+        "min": "12",
+        "name": "b",
+        "stanza": "Camera da letto",
+        "type": "Rumore"
+    },
+    {
+        "altezza": "3.4",
+        "max": "",
+        "min": "34",
+        "name": "c",
+        "stanza": "",
+        "type": "Umidità"
+    }
+]

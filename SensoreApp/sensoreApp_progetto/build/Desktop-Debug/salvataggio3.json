@@ -1,0 +1,26 @@
+[
+    {
+        "altezza": "",
+        "max": "15",
+        "min": "-15",
+        "name": "a",
+        "stanza": "",
+        "type": "Temperatura"
+    },
+    {
+        "altezza": "",
+        "max": "",
+        "min": "10",
+        "name": "b",
+        "stanza": "Auditorium",
+        "type": "Rumore"
+    },
+    {
+        "altezza": "2.3",
+        "max": "",
+        "min": "14",
+        "name": "f",
+        "stanza": "",
+        "type": "Umidità"
+    }
+]
